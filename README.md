@@ -7,4 +7,6 @@
 更专注于游戏业务开发
 
 * 即时通信，支持UDP/TCP协议，支持PROTOBUF/BinaryJson等二进制流格式
-* 分布式部署
+* 分布式部署，Raft算法
+* Go 语言开发
+
